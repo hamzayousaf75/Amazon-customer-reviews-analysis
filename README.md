@@ -1,3 +1,3 @@
-# Amazon-customer-reviews-analysis
+# Amazon-customer-reviews-analysis-using-Machine Learning
 ## Predicting customer ratings and product recommendations using Machine learning
 This repository showcases a machine learning project analyzing thousands of Amazon customer reviews. Utilizing algorithms like Random Forest, Classification Tree, and Logistic Regression, it uncovers consumer satisfaction and preference trends, providing valuable insights into customer sentiment and behavior. The dataset covers a time frame of 3.5 years, ranging from Oct 2014 to Apr2018. This comprehensive analysis offers a data-driven understanding of market trends based on actual user feedback
